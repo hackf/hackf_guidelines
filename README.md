@@ -9,8 +9,11 @@ Windsor Hackforge Software Development Guidelines
 
 ### Style Guides
 - Tab width should be 4 spaces unless otherwise noted in project-specific guidelines
-- Front-end web development guidelines: http://isobar-idev.github.io/code-standards/
-- Python should follow PEP8: http://www.python.org/dev/peps/pep-0008/
+- Front-end web development should follow the 
+  [isobar code standards] (http://isobar-idev.github.io/code-standards/)
+  as closely as possible
+- Python projects should follow [PEP 8] (http://www.python.org/dev/peps/pep-0008/)
+- Python docstrings should follow [PEP 257] (http://www.python.org/dev/peps/pep-0257/)
 
 ### Contributing - Fork & Pull Request
 - Fork the repository, make your changes in your own github repo, and submit a
@@ -24,3 +27,5 @@ Windsor Hackforge Software Development Guidelines
 - Please do not merge your own PRs, even if you are a lead developer
 - if a project's lead developers are not available, or if YOU are the lead, 
   a Hackf Admin (Doug Sartori, Jeff Szusz or Randy Topliffe) can review and merge your PR
+
+If your fork is out of date, [sync it with the upstream repo] (https://help.github.com/articles/syncing-a-fork)
