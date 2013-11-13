@@ -22,3 +22,5 @@ Windsor Hackforge Software Development Guidelines
 - When a PR has been given the "thumbs up" by at least two other developers, 
   a lead developer will merge your commits
 - Please do not merge your own PRs, even if you are a lead developer
+- if a project's lead developers are not available, or if YOU are the lead, 
+  a Hackf Admin (Doug Sartori, Jeff Szusz or Randy Topliffe) can merge your PR
