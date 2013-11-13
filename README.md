@@ -19,6 +19,6 @@ Windsor Hackforge Software Development Guidelines
   addressing or the feature you are implementing
 - The body of your PR description should include a concise, bullet-point list of
   your changes
-- When a PR has been given the "thumbs up" by at least two other lead developers
-  for the project in question, a lead developer will merge your commits
+- When a PR has been given the "thumbs up" by at least two other developers, 
+  a lead developer will merge your commits
 - Please do not merge your own PRs, even if you are a lead developer
